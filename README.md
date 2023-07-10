@@ -10,7 +10,7 @@ We do not collect, use, save, or have access to any of your personal data record
 
 ## Security
 
-We implement a variety of security measures to help keep your information secure. For instance, all communication with the extension is secured by encryption.
+We do not save any of your data anywhere. We only consume data directly present on the webpage.
 
 ## Changes to This Policy
 
