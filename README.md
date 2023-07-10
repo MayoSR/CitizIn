@@ -10,7 +10,7 @@ We do not collect, use, save, or have access to any of your personal data record
 
 ## Security
 
-We do not save any of your data anywhere. We only consume data directly present on the webpage.
+We do not save, collect or even request any of your data anywhere. We only consume content directly present on the webpage.
 
 ## Changes to This Policy
 
