@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Last Updated:** 10th July 2023
+**Last Updated:** 20th July 2023
 
-This Privacy Policy describes how LinkedIn US Citizenship Checker  ("we", "our", or "us") handles your personal information when you use our extension available on the Google Chrome Web Store.
+This Privacy Policy describes how LinkedIn US H1B & UK Skilled Worker Checker and LinkedIn Years of Experience Checker  ("we", "our", or "us") handles your personal information when you use our extension available on the Google Chrome Web Store.
 
 ## Personal Information
 
